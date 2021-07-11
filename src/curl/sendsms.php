@@ -36,5 +36,4 @@ curl_close($ch);
 /* if you prefer array: */
 $responceArr  = json_decode($server_output);
 
-
 ?>
