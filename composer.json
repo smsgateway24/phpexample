@@ -1,0 +1,15 @@
+{
+    "name": "smsgateway24/phpexample",
+    "autoload": {
+        "psr-4": {
+            "SmsGateWay24\\Phpexample\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "SmsGateWay24",
+            "email": "support@smsgateway24.com"
+        }
+    ],
+    "require": {}
+}
