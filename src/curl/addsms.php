@@ -9,7 +9,7 @@ $url = $baseUrl.$endpoint;
 $paramsArr = [];
 
 /* Required fields */
-$paramsArr['token'] = "5f0e86f9fe7ee6b52724fd5fd3511225"; // put here your token
+$paramsArr['token'] = "1f0e86f9fe7ee6b52724fd5fd3511225"; // put here your token
 $paramsArr['sendto'] = "+49 157 52982212";  // our Support number :) Text us to WhatsApp Or Telegram if you need help!
 $paramsArr['body'] = "Test message from API"; // also you can send long messages
 $paramsArr['device_id'] = "260";
@@ -19,7 +19,6 @@ $paramsArr['sim'] = "0";  // 0 or 1. try first 0.
 $paramsArr['timetosend'] = "2021-08-01 12:00";  // When SMS should go
 $paramsArr['customerid'] = "19921"; //  any ID from your internal system.  Then you can use this feature in reports
 $paramsArr['urgent'] = "1";
-$paramsArr['template_id'] = "12";
 
 $ch = curl_init();
 
