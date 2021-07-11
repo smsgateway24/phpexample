@@ -11,5 +11,7 @@
             "email": "support@smsgateway24.com"
         }
     ],
-    "require": {}
+    "require": {
+        "guzzlehttp/guzzle": "^7.3"
+    }
 }
