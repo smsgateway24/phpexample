@@ -1,2 +1,4 @@
-## here you can get pieces of code for your needs.
-php ^5.3
+## SmsGateWay24 PHP Example
+
+[![Latest Stable Version](http://poser.pugx.org/smsgateway24/smsgateway24-php-sdk/v)](https://packagist.org/packages/smsgateway24/smsgateway24-php-sdk) [![Total Downloads](http://poser.pugx.org/smsgateway24/smsgateway24-php-sdk/downloads)](https://packagist.org/packages/smsgateway24/smsgateway24-php-sdk) [![Latest Unstable Version](http://poser.pugx.org/smsgateway24/smsgateway24-php-sdk/v/unstable)](https://packagist.org/packages/smsgateway24/smsgateway24-php-sdk) [![License](http://poser.pugx.org/smsgateway24/smsgateway24-php-sdk/license)](https://packagist.org/packages/smsgateway24/smsgateway24-php-sdk) [![PHP Version Require](http://poser.pugx.org/smsgateway24/smsgateway24-php-sdk/require/php)](https://packagist.org/packages/smsgateway24/smsgateway24-php-sdk)
+
